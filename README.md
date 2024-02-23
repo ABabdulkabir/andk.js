@@ -1,1 +1,1 @@
-# andk.js
+VARIABLES IN JAVASCRIPT
